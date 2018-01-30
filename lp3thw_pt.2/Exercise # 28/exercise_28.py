@@ -44,7 +44,19 @@ not(1 ==1 and 0 != 1)
 #Guess: This will be True.
 not (10 == 1 or 1000 == 1000)
 
-#Guess: This will be
+#Guess: This will be True.
+not(1 != 10 or 3 == 4)
+
+#Guess: This will be False.
+not("testing" == "testing" and "Zed" == "Cool Guy")
+
+#Guess: This will be True.
+1 == 1 and (not("testing" == 1 or 1 == 0)
+# Guess: This will be False.
+"chunky" == "bacon" and (not( 3 == 4 or 3 == 3)
+#Guess : This will be True.
+3 == 3 and (not("testing" == "testing" or "Python" == "Fun"
+
 
 
 
